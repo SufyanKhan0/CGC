@@ -1,0 +1,44 @@
+.title {
+  background-color:	#383838;
+  color: white;
+  padding-bottom: 50px;
+}
+
+.head{
+  padding-top:25px;
+}
+
+.h{
+  text-align: center;
+}
+.shapes{
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color:#ececec;
+}
+.card-body{
+  text-align: center;
+}
+
+/* Footer */
+.site-footer
+{
+  background-color:#ececec;
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#737373;
+  text-align: center;
+}
+.body{
+    background-color:#ececec;
+}
+h2{
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.In{
+  text-align: center;
+}
